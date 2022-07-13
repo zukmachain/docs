@@ -34,3 +34,5 @@ exclude: [
    "maintenance.md",
    "Rakefile"
  ]
+
+theme: jekyll-theme-cayman
