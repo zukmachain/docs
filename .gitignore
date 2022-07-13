@@ -1,0 +1,10 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+*.gem
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db

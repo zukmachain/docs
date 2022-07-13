@@ -1,0 +1,36 @@
+title: AXE
+tagline: Decentralized X11-based cryptocurrency
+description: Decentralized blockchain
+baseurl: ""
+url: "https://axerunners.com"
+
+markdown: kramdown
+sass:
+  sass_dir: assets/sass
+
+collections:
+  - panels
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-mentions
+
+jekyll-mentions:
+    base_url: https://github.com
+
+exclude: [
+   "Gemfile",
+   "Gemfile.lock",
+   "node_modules",
+   "cibuild",
+   "gulpfile.js",
+   "package.json",
+   "_site",
+   "src",
+   "vendor",
+   "CNAME",
+   "LICENSE.md",
+   "maintenance.md",
+   "Rakefile"
+ ]
