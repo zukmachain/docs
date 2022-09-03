@@ -1,8 +1,8 @@
 title: AXE
 tagline: Decentralized X11-based cryptocurrency
 description: Decentralized blockchain
-baseurl: ""
-url: "https://axerunners.com"
+baseurl: "https://zukmachain.github.io"
+url: "/zukmadocs.github.io"
 
 markdown: kramdown
 sass:
