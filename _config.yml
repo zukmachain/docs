@@ -2,7 +2,7 @@ title: ZUKMA
 tagline: Decentralized NPOS-based cryptocurrency
 description: Decentralized blockchain
 baseurl: ""
-url: "https://zukmachain.org.com"
+url: "docs.zukma.org"
 
 markdown: kramdown
 sass:
