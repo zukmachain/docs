@@ -1,8 +1,8 @@
-title: AXE
+title: ZUKMA
 tagline: Decentralized X11-based cryptocurrency
 description: Decentralized blockchain
 baseurl: "https://zukma.org"
-url: "/zukmadocs.github.io"
+url: "/docs"
 
 markdown: kramdown
 sass:
