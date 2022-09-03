@@ -1,8 +1,8 @@
-title: ZUKMA
-tagline: Decentralized NPOS-based cryptocurrency
+title: AXE
+tagline: Decentralized X11-based cryptocurrency
 description: Decentralized blockchain
 baseurl: ""
-url: "docs.zukma.org"
+url: "https://axerunners.com"
 
 markdown: kramdown
 sass:
@@ -34,5 +34,3 @@ exclude: [
    "maintenance.md",
    "Rakefile"
  ]
-
-theme: jekyll-theme-midnight
