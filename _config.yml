@@ -35,4 +35,4 @@ exclude: [
    "Rakefile"
  ]
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
